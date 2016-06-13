@@ -1,0 +1,7 @@
+database dbname=test
+sql fig6.sql
+safeGet Fig6/Room/chat
+
+$/list
+fig3
+fig6
