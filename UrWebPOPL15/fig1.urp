@@ -1,0 +1,4 @@
+database dbname=test
+sql fig1.sql
+
+fig1
