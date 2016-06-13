@@ -1,0 +1,5 @@
+database dbname=test
+sql fig2.sql
+
+$/list
+fig2
